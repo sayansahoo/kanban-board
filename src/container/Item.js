@@ -60,8 +60,8 @@ const useStyles = makeStyles(() => ({
   },
   imgCircle: {
     borderRadius: "50%",
-    width: "22px",
-    height: "23px",
+    width: "23px",
+    height: "24px",
     position: "relative",
   },
   img: {
